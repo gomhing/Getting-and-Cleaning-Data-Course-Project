@@ -12,7 +12,7 @@
 		
 		2. Load activity labels + features file and then extract only the variables that will be used for the Tidy Data Set 
 
-    3. Load train & test datasets
+   		3. Load train & test datasets
 		
 		4. Merge two datasets
 		
