@@ -6,7 +6,7 @@
 		
     2. Analysis R Script: R code that used to merge data sets and produce tidy data set.
 		
-		The R script performs the following procedure:
+		The R script performs the following procedures:
 		
 		1. Load Packages and get the Data Set
 		
